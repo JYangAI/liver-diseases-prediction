@@ -3,5 +3,3 @@ __pycache__
 *.csv
 *.xlsx
 *.png
-*.joblib
-*.pth
